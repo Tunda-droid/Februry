@@ -1,2 +1,6 @@
 Breakout 5, faith, farouk, rowney,harriet, edgar, charles
-finals
+myfirtcommit
+Moringa school
+team collabrations assignment
+charles did his second commit
+hello everyone
