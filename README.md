@@ -4,3 +4,4 @@ Moringa school
 team collabrations assignment
 charles did his second commit
 merge
+how to  git pull
